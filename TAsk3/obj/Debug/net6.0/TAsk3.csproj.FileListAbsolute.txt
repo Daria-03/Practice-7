@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Практика 7\TAsk3\bin\Debug\net6.0\TAsk3.exe
+C:\Users\User\Desktop\Практика 7\TAsk3\bin\Debug\net6.0\TAsk3.deps.json
+C:\Users\User\Desktop\Практика 7\TAsk3\bin\Debug\net6.0\TAsk3.runtimeconfig.json
+C:\Users\User\Desktop\Практика 7\TAsk3\bin\Debug\net6.0\TAsk3.dll
+C:\Users\User\Desktop\Практика 7\TAsk3\bin\Debug\net6.0\TAsk3.pdb
+C:\Users\User\Desktop\Практика 7\TAsk3\obj\Debug\net6.0\TAsk3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Практика 7\TAsk3\obj\Debug\net6.0\TAsk3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Практика 7\TAsk3\obj\Debug\net6.0\TAsk3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Практика 7\TAsk3\obj\Debug\net6.0\TAsk3.AssemblyInfo.cs
+C:\Users\User\Desktop\Практика 7\TAsk3\obj\Debug\net6.0\TAsk3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Практика 7\TAsk3\obj\Debug\net6.0\TAsk3.dll
+C:\Users\User\Desktop\Практика 7\TAsk3\obj\Debug\net6.0\refint\TAsk3.dll
+C:\Users\User\Desktop\Практика 7\TAsk3\obj\Debug\net6.0\TAsk3.pdb
+C:\Users\User\Desktop\Практика 7\TAsk3\obj\Debug\net6.0\TAsk3.genruntimeconfig.cache
+C:\Users\User\Desktop\Практика 7\TAsk3\obj\Debug\net6.0\ref\TAsk3.dll
